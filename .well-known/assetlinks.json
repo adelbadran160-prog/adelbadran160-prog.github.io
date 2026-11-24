@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.adelbadran160.shefa",
+    "sha256_cert_fingerprints": ["24:A1:31:D5:1B:74:67:AD:58:62:0B:20:23:6D:40:EF:61:33:4A:CD:19:D4:F6:E0:E2:F3:85:5A:7C:58:9C:84"]
+  }
+}]
